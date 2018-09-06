@@ -2,6 +2,34 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://www.janye.com/categories/index.html</loc>
+    
+    <lastmod>2018-09-06T15:49:17.046Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://www.janye.com/tags/index.html</loc>
+    
+    <lastmod>2018-09-06T15:49:15.612Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://www.janye.com/gallery/index.html</loc>
+    
+    <lastmod>2018-09-06T15:48:45.782Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://www.janye.com/2018/09/06/%E8%BF%99%E6%98%AF%E4%B8%80%E4%B8%AA%E5%9B%BE%E7%89%87%E6%B5%8B%E8%AF%95%E6%96%87%E7%AB%A0/</loc>
+    
+    <lastmod>2018-09-06T15:29:09.982Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://www.janye.com/2018/09/05/%E4%B8%96%E7%95%8C%EF%BC%8C%E5%AE%89%E5%A5%BD/</loc>
     
     <lastmod>2018-09-06T15:13:34.424Z</lastmod>
@@ -9,30 +37,9 @@
   </url>
   
   <url>
-    <loc>http://www.janye.com/2018/09/06/%E8%BF%99%E6%98%AF%E4%B8%80%E4%B8%AA%E5%9B%BE%E7%89%87%E6%B5%8B%E8%AF%95%E6%96%87%E7%AB%A0/</loc>
-    
-    <lastmod>2018-09-06T08:37:54.136Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>http://www.janye.com/about/index.html</loc>
     
     <lastmod>2018-09-05T15:27:28.777Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://www.janye.com/tags/index.html</loc>
-    
-    <lastmod>2018-09-05T14:03:40.800Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://www.janye.com/categories/index.html</loc>
-    
-    <lastmod>2018-09-05T14:02:55.087Z</lastmod>
     
   </url>
   
